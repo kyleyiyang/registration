@@ -9,5 +9,11 @@ Line 47, change style = “display:none;” to <form class="signup_form form_mod
 		        	         <label><?php _e("State", ET_DOMAIN) ?></label>
                       <input type="text" class="text-field stae_user" name="user_state" id="user_state" />
 				          </div>
+			<div class="form-field">
+		        	<label><?php _e("Zipcode", ET_DOMAIN) ?></label>
+		        		<input type="text" class="text-field zipcode_user" name="user_zipcode" id="user_zipcode" />
+				</div>
+
+	
 
 
