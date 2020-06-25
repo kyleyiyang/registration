@@ -1,2 +1,2 @@
 # registration
-added city, state, zip code, etc. for registration
+added city, state, zip code, etc. in registration form
